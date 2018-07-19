@@ -127,6 +127,10 @@ iframe {
   
 }
 
+.social {
+  float : right;
+}
+
 .thumbs_up {
   background: white url(../images/thumbs_up.jpg) no-repeat top right;
 }
