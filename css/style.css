@@ -147,18 +147,18 @@ iframe {
 }
 
 .col-1 {
-  float : left;
+  display : inline;
   width : 20%;
 }
 
 .col-2 {
-  float: none;
+  display : inline;
   width : 20%;
   
 }
 
 .col-3 {
-  float : right;
+  display : inline;
   width : 20%;
 }
 
