@@ -134,6 +134,36 @@ iframe {
   height: 415px;
 }
 
+#shoes {
+  float : left;
+  width : 69%;
+  padding : 10px;
+  margin : 15px 5px;
+  
+}
+
+.archive {
+  float : right;
+}
+
+.col-1 {
+  float : left;
+  width : 20%;
+}
+
+.col-2 {
+  float: none;
+  width : 20%;
+  
+}
+
+.col-3 {
+  float : right;
+  width : 20%;
+}
+
+
+
 /********** Header **********/
 
 /********** Nav Bar **********/
