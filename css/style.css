@@ -1,3 +1,21 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @kscali Sign out
+9
+0 1,279 learn-co-students/hs-zhw-shoes-layout-v-000
+ Code  Issues 0  Pull requests 1,272  Projects 0  Wiki  Insights
+hs-zhw-shoes-layout-v-000/css/style.css
+1d6d89c  on Jun 14
+@DanielSeehausen DanielSeehausen updated for FEWDS version
+@jongrover @DanielSeehausen
+     
+306 lines (250 sloc)  7.5 KB
 /********** Web Fonts **********/
 @import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900); /* font-family: 'Elsie Swash Caps', cursive; */
 @import url(http://fonts.googleapis.com/css?family=Clicker+Script); /* font-family: 'Clicker Script', cursive; */
@@ -124,12 +142,6 @@ iframe {
 .border_right {
   border-right: 1px dotted #ccc;
   padding-right: 20px;
-  float : left;
-  
-}
-
-.social {
-  float : right;
 }
 
 .thumbs_up {
@@ -139,33 +151,6 @@ iframe {
 .contact_form {
   height: 415px;
 }
-
-#shoes {
-  float : left;
-  width : 69%;
-  padding : 10px;
-  margin : 15px 5px;
-  
-}
-
-.archive {
-  float : right;
-}
-
-.col-1 {
-  width : 20%;
-}
-
-.col-2 {
-  width : 20%;
-  
-}
-
-.col-3 {
-  width : 20%;
-}
-
-
 
 /********** Header **********/
 
@@ -335,4 +320,5 @@ footer a {
   text-decoration: underline;
 }
 
-/* code examples copyright Jonathan Grover 2012 */
+
+Press h to open a hovercard with more details.
